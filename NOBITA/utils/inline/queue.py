@@ -73,10 +73,10 @@ def aq_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="𝗔ʙᴏᴜᴛ 𝗡ᴏʙɪᴛᴀ 🥀", url=f"https://t.me/ABOUT_NOBITA_BOT_MAKER"
+                text="💙 ᴀʙᴏᴜᴛ ᴏᴡɴᴇʀ 💛", url=f"https://t.me/About_Nand_Yadu1c"
             ),
             InlineKeyboardButton(
-                text="𝗦ᴜᴘᴘᴏʀᴛ 𝖦ʀᴏᴜᴘ 🥀", url=f"https://t.me/NOBITA_SUPPORT"
+                text="🐬 𝗦ᴜᴘᴘᴏʀᴛ 𝖦ʀᴏᴜᴘ 🐬", url=f"https://t.me/NYCreation_Chatzone"
             ),
         ],
       ]
