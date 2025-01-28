@@ -30,7 +30,7 @@ async def wish(_, m):
             
     
 BUTTON = [[InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}")]]
-CUTIE = "https://files.catbox.moe/m2gtl3.webp"
+CUTIE = "https://files.catbox.moe/2oj1vp.webp"
 
 @app.on_message(filters.command("cute"))
 async def cute(_, message):
