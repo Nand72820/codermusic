@@ -14,8 +14,8 @@ from NOBITA.mongo.couples_db import _get_image, get_couple
 POLICE = [
     [
         InlineKeyboardButton(
-            text="|| ˹𖤍 𝗡𝗢𝗕𝗜𝗧𝗔 𖤍˼ ||",
-            url=f"https://t.me/NOBITA_SUPPORT",
+            text="||💗 ʏᴏ ᴍʏsᴛᴇʀɪᴏᴜs ™ 💗||",
+            url=f"https://t.me/Yo_Mysterious",
         ),
     ],
 ]
