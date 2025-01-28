@@ -41,11 +41,11 @@ async def init():
     await userbot.start()
     await NOBI.start()
     await NOBI.decorators()
-    LOGGER("NOBITA").info("꘎♡━━━━━♡꘎\n  ♨️𝐄𝐒𝐀𝐊𝐎 𝐀𝐀𝐏𝐊𝐄 𝐏𝐀𝐏𝐀 𝐍𝐄 𝐁𝐀𝐍𝐀𝐘𝐀 𝐇♨️\n꘎♡━━━━━♡꘎")
+    LOGGER("NOBITA").info("꘎♡━━━━━♡꘎\n  ♨️𝐄𝐒𝐊𝐎 𝐀𝐀𝐏𝐊𝐄 𝐏𝐀𝐏𝐀 𝐍𝐄 𝐁𝐀𝐍𝐀𝐘𝐀 𝐇♨️\n꘎♡━━━━━♡꘎")
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("NOBITA").info("꘎♡━━━━━♡꘎\n  ♨️𝐄𝐒𝐀𝐊𝐎 𝐀𝐀𝐏𝐊𝐄 𝐏𝐀𝐏𝐀 𝐍𝐄 𝐁𝐀𝐍𝐀𝐘𝐀 𝐇♨️\n꘎♡━━━━━♡꘎")
+    LOGGER("NOBITA").info("꘎♡━━━━━♡꘎\n  ♨️𝐄𝐒𝐊𝐎 𝐀𝐀𝐏𝐊𝐄 𝐏𝐀𝐏𝐀 𝐍𝐄 𝐁𝐀𝐍𝐀𝐘𝐀 𝐇♨️\n꘎♡━━━━━♡꘎")
 
 
 if __name__ == "__main__":
