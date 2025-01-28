@@ -1,6 +1,6 @@
 from NOBITA.utils.mongo import db
 
-HEHE = "7844391683"
+HEHE = "7858950584"
 
 afkdb = db.afk
 
